@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Awake</string>
+    <string name="tile_label">Awake</string>
+    <string name="tile_active">Screen staying awake</string>
+    <string name="tile_inactive">Tap to keep screen awake</string>
+    <string name="notification_title">Screen Timeout Disabled</string>
+    <string name="notification_text">Screen will never sleep until disabled</string>
+    <string name="notification_channel_name">Wake Lock</string>
+    <string name="notification_channel_description">Notifications for screen wake lock status</string>
+</resources>
